@@ -1,0 +1,10 @@
+C:\Users\Musfi\Desktop\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\bin\Debug\contact.dll
+C:\Users\Musfi\Desktop\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\bin\Debug\contact.pdb
+C:\Users\Musfi\Desktop\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\obj\Debug\contact.dll
+C:\Users\Musfi\Desktop\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\obj\Debug\contact.pdb
+C:\Users\Musfi\Desktop\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\obj\Debug\AIUB.OOP2.PROJECT.Entity.csprojResolveAssemblyReference.cache
+D:\AIUB\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\bin\Debug\contact.dll
+D:\AIUB\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\bin\Debug\contact.pdb
+D:\AIUB\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\obj\Debug\AIUB.OOP2.PROJECT.Entity.csprojResolveAssemblyReference.cache
+D:\AIUB\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\obj\Debug\contact.dll
+D:\AIUB\AIUB.OOP2.PROJECT\AIUB.OOP2.PROJECT.Entity\obj\Debug\contact.pdb
